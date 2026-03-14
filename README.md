@@ -153,7 +153,14 @@
 - Reduced manual monitoring effort by **45%**
 
 ---
+## 🏆 Achievements & Certifications
+
+- Certified in **MERN Stack Development**
+- Solved **250+ LeetCode problems** focused on DSA and logical problem-solving
+- Participated in **state-level hackathons** and technical project-building competitions
+- Built real-world full-stack applications with focus on **API integration, performance, and scalability**
+- Completed a **Web Application Development Internship**, contributing to responsive and efficient MERN stack modules
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Atharv-Amble&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Atharv-Amble&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
