@@ -105,13 +105,12 @@
 ### Web Application Development Intern  
 **Jan 2025 – Feb 2025 | Pune, India**
 
-- Developed and optimized **15+ modules** using React.js, Node.js, and Tailwind CSS  
-- Improved application load speed by **30%**  
-- Integrated RESTful APIs and MongoDB to handle **100+ daily user requests** efficiently  
-- Collaborated in Agile sprints focused on scalable and reliable MERN stack development  
-- Streamlined API testing and Git-Docker workflows, reducing deployment errors by **20%**  
-- Gained exposure to AWS and cloud deployment practices  
-- Wrote reusable, testable, and efficient code for maintainable application performance  
+-Developed and optimized frontend modules using React.js, Node.js, and Tailwind CSS, improving application responsiveness and load performance.
+-Integrated RESTful APIs and MongoDB to efficiently handle user requests and ensure smooth data flow.
+-Collaborated in Agile sprints on MERN stack development with a focus on scalability and reliability.
+-Streamlined API testing and Git workflows to improve deployment stability and reduce errors.
+-Built responsive and intuitive user interfaces to enhance overall user experience.
+-Wrote reusable, testable, and efficient code to ensure high-quality software performance.
 
 ---
 
