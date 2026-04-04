@@ -136,20 +136,20 @@
 ## 📌 Projects
 
 ### 1. Work-Wave
-- Full-stack freelancing platform built using **React.js, Node.js, Express.js, MongoDB, and Firebase**
-- Enabled secure client–freelancer interaction with modern authentication and backend integration
-- Improved backend efficiency by **25%** through optimized APIs and testing with Postman
+- Full-stack freelancing platform built using React.js, Node.js, Express.js, MongoDB, and Firebase
+- Enabled secure client–freelancer interaction with authentication and backend integration
+- Optimized backend APIs and performed testing using Postman to ensure efficient data handling
 
 ### 2. FreshCart
-- Developed a modern grocery web application using **React.js, Node.js, MongoDB, and REST APIs**
+- Developed a modern grocery web application using React.js, Node.js, MongoDB, and REST APIs
 - Implemented secure authentication and responsive UI design
-- Achieved **30% faster load times** and delivered a seamless shopping experience
+- Enhanced application performance and delivered a smooth and user-friendly shopping experience
 
 ### 3. VitalTrack *(B.E. Project – Ongoing)*
 - AI and IoT-powered smart healthcare automation system
-- Built using **Python, Machine Learning, and Angular**
+- Built using Python, Machine Learning, and Angular
 - Focused on real-time monitoring, predictive analysis, scalability, and event-driven alerts
-- Reduced manual monitoring effort by **45%**
+- Reduced manual monitoring effort through automation and intelligent data processing
 
 ---
 ## 🏆 Achievements & Certifications
